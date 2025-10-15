@@ -9,7 +9,7 @@
 
 ## &nbsp;Summary
 
-Highly experienced and proficient Frontend Developer with over 4 years of success in creating PWAs. Committed to continuous learning, resolving challenges, and maximizing user efficiency through
+Highly experienced and proficient Frontend Developer with over 5 years of success in creating PWAs. Committed to continuous learning, resolving challenges, and maximizing user efficiency through
 intuitive and responsive user interfaces. Excel at staying updated with the latest industry trends and
 working effectively within team environments to deliver high-quality, scalable solutions.
 &nbsp;
